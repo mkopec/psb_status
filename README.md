@@ -51,5 +51,6 @@ make an issue!
 | --- | --- |
 | Lenovo ThinkPad T14 Gen1 | Enabled |
 | Lenovo ThinkPad P14s Gen4 | Enabled |
+| Asus Pro WS X570-ACE | Disabled |
 | Asus ROG Strix B550-I | Disabled |
 | Valve Steam Deck | Disabled |
