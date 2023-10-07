@@ -9,6 +9,11 @@ smn_read32 () {
 		iotools pci_read32 0 0 0 0xBC
 }
 
+if [[ $EUID -ne 0 ]]; then
+   echo "This script must be run as root!"
+   exit 1
+fi
+
 if ! command -v iotools &> /dev/null
 then
     echo "iotools could not be found. Install iotools before executing psb_status.sh."
