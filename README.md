@@ -47,6 +47,6 @@ make an issue!
 
 | Model | Status |
 | --- | --- |
-| Lenovo ThinkPad T14 Gen1 | Fused |
-| Lenovo ThinkPad P14s Gen4 | Fused |
-| Asus ROG Strix B550-I | Unfused |
+| Lenovo ThinkPad T14 Gen1 | Enabled |
+| Lenovo ThinkPad P14s Gen4 | Enabled |
+| Asus ROG Strix B550-I | Disabled |
