@@ -12,6 +12,12 @@ Inspired by https://github.com/felixsinger/bootguard-status
 PSB prevents the user from using their own firmware on (thus taking full
 ownership of) their own devices.
 
+As a technology, PSB has considerable security benefits, by rooting trust in
+physical one-time fuses inside the CPU itself. However, computer vendors fuse
+the processors to their own secret keys, making it impossible for the user to
+replace them. If the vendor stops updating your firmware or adds hostile
+features such as whitelists, you're out of luck and can't do anything about it.
+
 This list aims to document which devices do or do not allow the user the
 freedom to run their own code, allowing users to make informed purchasing
 decisions.
