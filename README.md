@@ -26,6 +26,14 @@ cd psb_status
 sudo ./psb_status.sh
 ```
 
+The script checks bit 24 (`FUSE_PLATFORM_SECURE_BOOT_EN`) of SMN register
+`PSB_STATUS_OFFSET`. A value of 1 indicated PSB fused silicon. This is based on
+[coreboot's PSB implementation])https://github.com/coreboot/coreboot/blob/17848b65c38c32fa9630925ca8a15203a0617788/src/soc/amd/common/block/psp/psb.c#L105-L111)
+which is publically available. This may or may not be valid for your device,
+and I can not be responsible if this script causes unexpected behavior for you.
+But so far, Renoir, Cezanne and Phoenix based devices have been confirmed to
+work.
+
 Users are encouraged to add their devices to the table below. Submit a PR, or
 make an issue!
 
