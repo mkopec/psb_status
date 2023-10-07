@@ -10,18 +10,20 @@ smn_read32 () {
 }
 
 if [[ $EUID -ne 0 ]]; then
-   echo "This script must be run as root!"
-   exit 1
+		echo "This script must be run as root!"
+		exit 1
 fi
 
 if ! command -v iotools &> /dev/null
 then
-    echo "iotools could not be found. Install iotools before executing psb_status.sh."
-    exit 1
+		echo "iotools could not be found. Install iotools before executing psb_status.sh."
+		exit 1
 fi
 
 psb_status=$(smn_read32 $(($SMN_PUBLIC_BASE + $PSB_STATUS_OFFSET)))
 psb_enabled=$(iotools and $psb_status 0x1000000)
+
+echo $psb_status
 
 if [[ "$psb_enabled" != "0x0" ]]; then
 		echo "PSB is enabled on your platform. You will not be able to run alternative firmware."
