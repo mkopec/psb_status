@@ -57,7 +57,7 @@ make an issue!
 
 ### Desktop / Workstation
 
-In general, enthusiast / DIY boards will not have PSB, as fusing to the CPU would destroy the secondhand CPU market. However, some vendors do decide to use it, so it's worthwhile to keep a list of them.
+In general, enthusiast / DIY boards will not have PSB, as fusing the CPU renders it permanently bound to the board. However, some vendors do decide to use it, so it's worthwhile to keep a list of them.
 
 | Make | Model | Status |
 | --- | --- | --- |
