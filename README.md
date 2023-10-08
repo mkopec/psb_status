@@ -47,11 +47,20 @@ make an issue!
 
 ## List
 
-| Model | Status |
-| --- | --- |
-| Lenovo ThinkPad T14 Gen1 | Enabled |
-| Lenovo ThinkPad P14s Gen4 | Enabled |
-| Asus Pro WS X570-ACE | Disabled |
-| Asus ROG Strix B550-I | Disabled |
-| Gigabyte X570s Aero G rev.1 | Disabled |
-| Valve Steam Deck | Disabled |
+### Laptop / Mobile
+
+| Make | Model | Status |
+| --- | --- | --- |
+| Lenovo | ThinkPad T14 Gen1 | Enabled |
+| Lenovo | ThinkPad P14s Gen4 | Enabled |
+| Valve | Steam Deck | Disabled |
+
+### Desktop / Workstation
+
+In general, enthusiast / DIY boards will not have PSB, as fusing to the CPU would destroy the secondhand CPU market. However, some vendors do decide to use it, so it's worthwhile to keep a list of them.
+
+| Make | Model | Status |
+| --- | --- | --- |
+| Asus | Pro WS X570-ACE | Disabled |
+| Asus | ROG Strix B550-I | Disabled |
+| Gigabyte | X570s Aero G rev.1 | Disabled |
