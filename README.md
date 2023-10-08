@@ -51,6 +51,7 @@ make an issue!
 
 | Make | Model | Status |
 | --- | --- | --- |
+| Lenovo | ThinkPad L14 Gen2 | Disabled |
 | Lenovo | ThinkPad T14 Gen1 | Enabled |
 | Lenovo | ThinkPad P14s Gen4 | Enabled |
 | Valve | Steam Deck | Disabled |
