@@ -42,6 +42,10 @@ and I can not be responsible if this script causes unexpected behavior for you.
 But so far, Renoir, Cezanne and Phoenix based devices have been confirmed to
 work.
 
+Alternatively, you can simply run `fwupdtool security` and check the value of
+the `Fused platform` field. This interface is supported only on certain devices
+and is therefore not as universal as the script provided in this repository.
+
 Users are encouraged to add their devices to the table below. Submit a PR, or
 make an issue!
 
