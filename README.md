@@ -69,3 +69,4 @@ In general, enthusiast / DIY boards will not have PSB, as fusing the CPU renders
 | Asus | Pro WS X570-ACE | Disabled |
 | Asus | ROG Strix B550-I | Disabled |
 | Gigabyte | X570s Aero G rev.1 | Disabled |
+| Alienware | Aurora Ryzen R10 (0TYR0X A00 ver.) | Enabled |
