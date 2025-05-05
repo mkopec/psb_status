@@ -55,6 +55,7 @@ make an issue!
 
 | Make | Model | Status |
 | --- | --- | --- |
+| Lenovo | Legion Pro 7 16ARX8H |
 | Lenovo | ThinkPad L14 Gen2 | Disabled |
 | Lenovo | ThinkPad P14s Gen4 | Enabled |
 | Lenovo | ThinkPad T14 Gen1 | Enabled |
