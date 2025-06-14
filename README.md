@@ -55,6 +55,7 @@ make an issue!
 
 | Make | Model | Status |
 | --- | --- | --- |
+| Dell | Inspiron 5575 | Disabled |
 | Lenovo | Legion Pro 7 16ARX8H | Enabled |
 | Lenovo | ThinkPad E495 | Disabled |
 | Lenovo | ThinkPad L14 Gen2 | Disabled |
