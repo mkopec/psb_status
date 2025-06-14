@@ -59,7 +59,9 @@ make an issue!
 | Lenovo | ThinkPad L14 Gen2 | Disabled |
 | Lenovo | ThinkPad P14s Gen4 | Enabled |
 | Lenovo | ThinkPad T14 Gen1 | Enabled |
+| Lenovo | ThinkPad E495 | Disabled |
 | Valve | Steam Deck | Disabled |
+| Dell | Inspiron 5575 | Disabled |
 
 ### Desktop / Workstation
 
