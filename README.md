@@ -60,6 +60,7 @@ make an issue!
 | Lenovo | ThinkPad P14s Gen4 | Enabled |
 | Lenovo | ThinkPad T14 Gen1 | Enabled |
 | Valve | Steam Deck | Disabled |
+| Framework | Framework 13 AMD | Disabled |
 
 ### Desktop / Workstation
 
