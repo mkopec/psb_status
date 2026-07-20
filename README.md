@@ -60,6 +60,7 @@ make an issue!
 | Lenovo | ThinkPad E495 | Disabled |
 | Lenovo | ThinkPad L14 Gen2 | Disabled |
 | Lenovo | ThinkPad P14s Gen4 | Enabled |
+| Lenovo | ThinkPad P14s Gen5 | Enabled |
 | Lenovo | ThinkPad T14 Gen1 | Enabled |
 | Valve | Steam Deck | Disabled |
 | Framework | Framework 13 AMD | Disabled |
