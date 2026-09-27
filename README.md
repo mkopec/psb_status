@@ -55,6 +55,7 @@ make an issue!
 
 | Make | Model | Status |
 | --- | --- | --- |
+| Asus | Zephyrus G14 2022 (GA402RJ) | Disabled |
 | Dell | Inspiron 5575 | Disabled |
 | Lenovo | Legion Pro 7 16ARX8H | Enabled |
 | Lenovo | ThinkPad E495 | Disabled |
@@ -71,6 +72,7 @@ In general, enthusiast / DIY boards will not have PSB, as fusing the CPU renders
 
 | Make | Model | Status |
 | --- | --- | --- |
+| Asus | Crosshair VII Hero (WiFi) | Disabled |
 | Asus | Pro WS X570-ACE | Disabled |
 | Asus | ROG Strix B550-I | Disabled |
 | Gigabyte | X570s Aero G rev.1 | Disabled |
